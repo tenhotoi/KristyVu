@@ -1,0 +1,2 @@
+I love programming very much!
+Testing file append again, within exception: I love programming very much!

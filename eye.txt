@@ -1,0 +1,50 @@
+[
+  {
+    "gfg1": 11,
+    "is1": 21,
+    "for1": 41,
+    "CS1": 51
+  },
+  {
+    "gfg2": 12,
+    "is2": 22,
+    "for2": 42,
+    "CS2": 52
+  },
+  {
+    "gfg3": 13,
+    "is3": 23,
+    "for3": 43,
+    "CS3": 53
+  },
+  {
+    "gfg4": 14,
+    "is4": 24,
+    "for4": 44,
+    "CS4": 54
+  },
+  {
+    "gfg5": 15,
+    "is5": 25,
+    "for5": 45,
+    "CS5": 55
+  }
+]{"gfg": 1, "is": 2, "for": 4, "CS": 5}
+('testing tuple', 42)
+['testing list', 42]{"gfg": 1, "is": 2, "for": 4, "CS": 5}
+('testing tuple', 42)
+['testing list', 42]{"gfg": 1, "is": 2, "for": 4, "CS": 5}
+('testing tuple', 42)
+['testing list', 42]{"gfg": 1, "is": 2, "for": 4, "CS": 5}
+('testing tuple', 42)
+['testing list', 42]{"gfg": 1, "is": 2, "for": 4, "CS": 5}
+('testing tuple', 42)
+['testing list', 42]{"gfg": 1, "is": 2, "for": 4, "CS": 5}
+('testing tuple', 42)
+['testing list', 42]{"gfg": 1, "is": 2, "for": 4, "CS": 5}
+('testing tuple', 42)
+['testing list', 42]{"gfg": 1, "is": 2, "for": 4, "CS": 5}
+('testing tuple', 42)
+['testing list', 42]{"gfg": 1, "is": 2, "for": 4, "CS": 5}
+('testing tuple', 42)
+['testing list', 42]
